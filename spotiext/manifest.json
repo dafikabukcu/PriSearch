@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Spotify Controller",
+  "version": "1.0",
+  "description": "A modern Spotify controller extension",
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://api.spotify.com/*",
+    "https://accounts.spotify.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
