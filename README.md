@@ -6,6 +6,10 @@ Welcome to PriSearch.
 PriSearch is a completely private, ungoogled-chromium browser with my own extensions created to make it a proper,
 fully-functional browser.
 
+## Why?
+
+Since the change of policies in Firefox, I've decided to have a more private browser, and here we are.
+
 ## 2. Set it Up
 
 1. Clone the repo
@@ -25,3 +29,6 @@ fully-functional browser.
 
 You can just execute it by using the "launchPriSearch.bat - Shortcut.Ink". You can move that shortcut to
 any folder you want, be sure not to change the location of the original bat file (launchPrisearch.bat).
+
+
+You can find the original GitHub repository of ungoogled-chromium [here](https://github.com/ungoogled-software/ungoogled-chromium)
