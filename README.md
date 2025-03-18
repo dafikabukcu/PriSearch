@@ -22,7 +22,8 @@ Since the change of policies in Firefox, I've decided to have a more private bro
 	- privateAIExt
 	- spotiext
 	- whatsappext
-	Do it for your preferred extensions.
+
+Repeat the loading process for your preferred extensions.
 
 
 ## 3. Use it!
@@ -31,4 +32,4 @@ You can just execute it by using the "launchPriSearch.bat - Shortcut.Ink". You c
 any folder you want, be sure not to change the location of the original bat file (launchPrisearch.bat).
 
 
-You can find the original GitHub repository of ungoogled-chromium [here](https://github.com/ungoogled-software/ungoogled-chromium)
+You can find the original GitHub repository of ungoogled-chromium [here](https://github.com/ungoogled-software/ungoogled-chromium).
